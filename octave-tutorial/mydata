@@ -1,0 +1,68 @@
+# Created by Octave 4.0.3, Wed Jan 04 16:46:44 2017 BRST <douglas@aurora>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 2 7
+ 3 4 8
+ 5 6 9
+
+
+# name: B
+# type: matrix
+# rows: 2
+# columns: 2
+ 0 0
+ 1 2
+
+
+# name: C
+# type: matrix
+# rows: 3
+# columns: 1
+ 7
+ 8
+ 9
+
+
+# name: I
+# type: diagonal matrix
+# rows: 5
+# columns: 5
+1
+1
+1
+1
+1
+
+
+# name: ans
+# type: matrix
+# rows: 3
+# columns: 1
+ -0.9589668626258666
+ 1.546142274958194
+ 0.7269031767135528
+
+
+# name: i
+# type: scalar
+6
+
+
+# name: x
+# type: matrix
+# rows: 10
+# columns: 1
+ 999
+ 999
+ 999
+ 999
+ 999
+ 64
+ 128
+ 256
+ 512
+ 1024
+
+
